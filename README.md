@@ -1,5 +1,8 @@
 # 💫 About Me:
-    Hi, I’m @mehedyhassanratul<br>    I’m interested in ... Android, Open source apps, Websites Development, customROM<br>    I’m currently learning ... html,css, python, js<br>    I’m looking to collaborate on . //\?/~\?//
+    Hi, I’m @mehedyhassanratul
+    I’m interested in ... Android, Open source apps, Websites Development, customROM
+    I’m currently learning ... html,css, python, js
+    I’m looking to collaborate on . //\?/~\?//
 
 
 ## 🌐 Socials:
