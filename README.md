@@ -1,97 +1,16 @@
-# 👋 Hello World! I'm Mehedy Hassan Ratul
+# 💫 About Me:
+👋 Hey there, I'm Mehedy Hassan ( Ratul / Juwel / Kahach)<br>You can just call me Jupiter—she does.<br><br>Code junkie. Pixel perfectionist. Always cooking up something weird, useful, or straight-up ridiculous.<br>Love clean UI, hate bloated bullshit. On a mission to build dope stuff and leave my mark without losing my mind.<br><br>🔍 About Me:<br>🔭 I’m currently working on:<br>AI-powered blogging CMS, futuristic websites, Chrome extensions, and some projects I can’t even explain yet.<br><br>👯 I’m looking to collaborate on:<br>Wild ideas, cool web apps, or anything that doesn’t bore the fuck out of me.<br><br>🤝 I’m looking for help with:<br>Getting more eyes on my work, making things smoother, and maybe... a designer who gets minimalism.<br><br>🌱 I’m currently learning:<br>Flutter + Supabase, automation with AI, full-stack magic, and how not to overthink every damn thing.<br><br>💬 Ask me about:<br>Tech tricks, customization, Web3-ish ideas, or building a whole-ass product solo.<br><br>⚡ Fun fact:<br>I break shit till I fix it.<br>And I probably talk more to ChatGPT than I do to my friends. (Sorry, not sorry.)<br><br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Android+Developer;Web+Developer;Open+Source+Enthusiast;Custom+ROM+Developer" alt="Typing SVG" />
-</div>
 
-## 🚀 About Me
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamkahachrofe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamkahachrofe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kahachrofe) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TheApptimizer) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mehedyhassanratul&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mehedyhassanratul&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedyhassanratul&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Android+%26+Web+Developer+from+Bangladesh;Open+Source+Enthusiast;Custom+ROM+Developer;Always+Learning+New+Things" alt="About Me Typing SVG" />
-</div>
-
-<details open>
-<summary><b>👨‍💻 Who am I?</b></summary>
-<br>
-<p align="center">
-I'm a passionate Computer Science enthusiast and developer from Bangladesh, constantly exploring the vast world of technology. My journey involves crafting mobile experiences, contributing to open source, and building web solutions that make a difference.
-</p>
-</details>
-
-<details open>
-<summary><b>🎯 Current Focus</b></summary>
-<br>
-
-- 🔭 Working on: **Android Development** & **Custom ROMs**
-- 🌱 Learning: `HTML` • `CSS` • `Python` • `JavaScript`
-- 👀 Interested in: `UI/UX` • `Mobile Apps` • `Cloud Computing`
-- 🎨 Side Passion: **Photography** 📸
-</details>
-
-<details open>
-<summary><b>💭 Tech Philosophy</b></summary>
-<br>
-
-> *"Code, Coffee, Create"* ☕
-
-- 🌟 Believe in learning by building
-- 🤝 Open source enthusiast
-- 💡 Love experimenting with new technologies
-- 🎯 Currently focusing on mastering full-stack development
-</details>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-## 🌈 Connect with Me
-<div align="center">
-  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mehedy_hassan2)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mehedyhassanratul2)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mehedyhassanratul2)
-
-</div>
-
-## 💻 Tech Stack
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-</div>
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedyhassanratul&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedyhassanratul&theme=tokyonight" alt="GitHub Streak" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedyhassanratul&theme=tokyonight&layout=compact" alt="Top Languages">
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehedyhassanratul&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
-</div>
-
-## 🔝 Top Contributions
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mehedyhassanratul&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mehedyhassanratul&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
 ---
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehedyhassanratul&color=6C63FF&style=for-the-badge" alt="Profile Views">
-</div>
-
-<div align="center">
-  
-### Show some ❤️ by starring some repositories!
-
-</div>
+[![](https://visitcount.itsvg.in/api?id=mehedyhassanratul&icon=0&color=0)](https://visitcount.itsvg.in)
